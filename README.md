@@ -1,1 +1,1 @@
-#Talking robot.
+##Talking robot. This is a great exercice to learn Ruby!
